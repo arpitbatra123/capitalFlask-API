@@ -10,7 +10,7 @@ lazy-object-proxy==1.4.2
 MarkupSafe==1.0
 mccabe==0.6.1
 pycodestyle==2.5.0
-pylint==1.8.2
+pylint==2.4.1
 six==1.11.0
 Werkzeug==0.14.1
 wrapt==1.11.2
